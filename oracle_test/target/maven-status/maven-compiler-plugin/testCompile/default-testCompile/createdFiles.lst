@@ -1,0 +1,5 @@
+exception\UbiveloxException.class
+com\ubivelox\oracle_test\ConnectDB.class
+com\ubivelox\oracle_test\Emp.class
+com\ubivelox\oracle_test\Crud.class
+com\ubivelox\oracle_test\CrudTest.class
